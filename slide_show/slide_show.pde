@@ -12,12 +12,12 @@ PImage picture1;
         PImage picture5;
 int p1 = 1;
 void setup(){
-  size(480,480); //size of image
-  picture1 = loadImage("1.jpeg");//load the image
-     picture2 = loadImage("2.jpeg");
-       picture3 = loadImage("3.jpeg");
-     picture4 = loadImage("4.jpeg");
-  picture5 = loadImage("5.jpeg");
+  size(1920,1080); //size of image
+  picture1 = loadImage("1.jpg");//load the image
+     picture2 = loadImage("2.jpg");
+       picture3 = loadImage("3.jpg");
+     picture4 = loadImage("4.jpg");
+  picture5 = loadImage("5.jpg");
 }
 
 void draw(){
