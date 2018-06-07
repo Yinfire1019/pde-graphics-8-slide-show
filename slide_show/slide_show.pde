@@ -22,9 +22,9 @@ void setup(){
 
 void draw(){
   if (p1 == 1){
-  image(picture1,0,0,480,480);
+  image(picture1,0,0,1920,1080);
   }else if (p1 == 2){
-    image(picture2,0,0,480,480);
+    image(picture2,0,0,1920,1080);
   }else if (p1 == 3){
     image(picture3,0,0,480,480);
   
